@@ -43,7 +43,7 @@ Output: Malware name, MD5 Hash, Domain, IP address
 - [HA]  ip_to_malware  
 Input: IP address  
 Output: Malware name, MD5 Hash, Domain  
-![ip_malware](https://user-images.githubusercontent.com/16297449/53250498-ddf5a580-36fd-11e9-8de7-fb7815d0d161.png)
+![ip_malware](https://user-images.githubusercontent.com/16297449/53251134-514be700-36ff-11e9-98bf-6f2c98f4b2ad.png)
 
 - [HA] hash_to_malware  
 Input: Domain, URL  
