@@ -38,7 +38,7 @@ Output: Category
 - [HA] url_to_malware  
 Input: Domain, URL  
 Output: Malware name, MD5 Hash, Domain, IP address  
-![url_malware](https://user-images.githubusercontent.com/16297449/53250484-d6360100-36fd-11e9-8517-3357cb22b7e0.png)
+![url_malware](https://user-images.githubusercontent.com/16297449/53251046-18ac0d80-36ff-11e9-88fe-10ea6221f0ac.png)
 
 - [HA]  ip_to_malware  
 Input: IP address  
