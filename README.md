@@ -38,19 +38,19 @@ Output: Category
 - [HA] url_to_malware  
 Input: Domain, URL  
 Output: Malware name, MD5 Hash, Domain, IP address  
-<img src="https://" width="">
+![url_malware](https://user-images.githubusercontent.com/16297449/53250484-d6360100-36fd-11e9-8517-3357cb22b7e0.png)
 
 - [HA]  ip_to_malware  
 Input: IP address  
 Output: Malware name, MD5 Hash, Domain  
-<img src="https://" width="">
+![ip_malware](https://user-images.githubusercontent.com/16297449/53250498-ddf5a580-36fd-11e9-8de7-fb7815d0d161.png)
 
 - [HA] hash_to_malware  
 Input: Domain, URL  
 Output: Malware name, MD5 Hash, Domain, IP address  
-<img src="https://" width="">
+![hash_malware](https://user-images.githubusercontent.com/16297449/53250748-62e0bf00-36fe-11e9-8c36-50716fa93fdd.png)
 
 - [HA]  domain_to_whois  
 Input: Domain, URL  
 Output: Whois (Email address, registrarName, createdDate, updatedDate)  
-<img src="https://" width="">
+![whois](https://user-images.githubusercontent.com/16297449/53250791-80158d80-36fe-11e9-8434-9a6307285901.png)
