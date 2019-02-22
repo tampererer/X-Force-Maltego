@@ -30,27 +30,27 @@ Maltego Local Transform to use IBM X-Force Exchange API - https://exchange.xforc
   Working directory = C:\Maltego\Transforms\XForce_Exchange
 
 # Transforms
-- [HA] url_to_categ
+- [HA] url_to_categ  
 Input: Domain, URL  
 Output: Category  
 <img src="https://" width="">
 
-- [HA] url_to_malware
+- [HA] url_to_malware  
 Input: Domain, URL  
 Output: Malware name, MD5 Hash, Domain, IP address  
 <img src="https://" width="">
 
-- [HA]  ip_to_malware
+- [HA]  ip_to_malware  
 Input: IP address  
 Output: Malware name, MD5 Hash, Domain  
 <img src="https://" width="">
 
-- [HA] hash_to_malware
+- [HA] hash_to_malware  
 Input: Domain, URL  
 Output: Malware name, MD5 Hash, Domain, IP address  
 <img src="https://" width="">
 
-- [HA]  domain_to_whois
+- [HA]  domain_to_whois  
 Input: Domain, URL  
 Output: Whois (Email address, registrarName, createdDate, updatedDate)  
 <img src="https://" width="">
