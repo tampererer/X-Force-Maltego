@@ -33,7 +33,7 @@ Maltego Local Transform to use IBM X-Force Exchange API - https://exchange.xforc
 - [HA] url_to_categ  
 Input: Domain, URL  
 Output: Category  
-<img src="https://" width="">
+![categ](https://user-images.githubusercontent.com/16297449/53248578-5e65d780-36f9-11e9-8fe7-7fd8bfeda904.png)
 
 - [HA] url_to_malware  
 Input: Domain, URL  
