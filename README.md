@@ -21,7 +21,7 @@ Maltego Local Transform to use IBM X-Force Exchange API - https://exchange.xforc
   Working directory = C:\Maltego\Transforms\XForce_Exchange
 
 # セットアップ
-- XForce.py の中で、apikey と secret という変数に、自分の API key と API Pass を記載してください。
+- XForce.py の中で、apikey と apipass という変数に、自分の API key と API Pass を記載してください。
 - 全てのPythonファイルを、このTransform用に作ったディレクトリに置いてください。（例： C:\Maltego\Transforms\XForce_Exchange）
 - XForce.mtz を開いて、Maltegoの設定をインポートしてください。
 - mtzファイルに含まれる設定では、下記のディレクトリが指定されていますが、自分の環境に合わせて変更してください。（Maltego -> Transforms -> Transform Manager）
