@@ -33,24 +33,24 @@ Maltego Local Transform to use IBM X-Force Exchange API - https://exchange.xforc
 - [HA] url_to_categ  
 Input: Domain, URL  
 Output: Category  
-![categ](https://user-images.githubusercontent.com/16297449/53248578-5e65d780-36f9-11e9-8fe7-7fd8bfeda904.png)
+<img src="https://user-images.githubusercontent.com/16297449/53248578-5e65d780-36f9-11e9-8fe7-7fd8bfeda904.png" width="600">
 
 - [HA] url_to_malware  
 Input: Domain, URL  
 Output: Malware name, MD5 Hash, Domain, IP address  
-![url_malware](https://user-images.githubusercontent.com/16297449/53251046-18ac0d80-36ff-11e9-88fe-10ea6221f0ac.png)
+<img src="https://user-images.githubusercontent.com/16297449/53251046-18ac0d80-36ff-11e9-88fe-10ea6221f0ac.png" width="900">
 
 - [HA]  ip_to_malware  
 Input: IP address  
 Output: Malware name, MD5 Hash, Domain  
-![ip_malware](https://user-images.githubusercontent.com/16297449/53251134-514be700-36ff-11e9-98bf-6f2c98f4b2ad.png)
+<img src="https://user-images.githubusercontent.com/16297449/53251134-514be700-36ff-11e9-98bf-6f2c98f4b2ad.png" width="600">
 
 - [HA] hash_to_malware  
 Input: Domain, URL  
 Output: Malware name, MD5 Hash, Domain, IP address  
-![hash_malware](https://user-images.githubusercontent.com/16297449/53250748-62e0bf00-36fe-11e9-8c36-50716fa93fdd.png)
+<img src="https://user-images.githubusercontent.com/16297449/53250748-62e0bf00-36fe-11e9-8c36-50716fa93fdd.png" width="600">
 
 - [HA]  domain_to_whois  
 Input: Domain, URL  
 Output: Whois (Email address, registrarName, createdDate, updatedDate)  
-![whois](https://user-images.githubusercontent.com/16297449/53250791-80158d80-36fe-11e9-8434-9a6307285901.png)
+<img src="https://user-images.githubusercontent.com/16297449/53250791-80158d80-36fe-11e9-8434-9a6307285901.png" width="600">
