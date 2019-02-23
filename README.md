@@ -1,4 +1,4 @@
-# [Hybrid Analysis Public API] Maltego Local Transforms
+# [IBM X-Force Exchange API] Maltego Local Transforms
 Maltego Local Transform to use IBM X-Force Exchange API - https://exchange.xforce.ibmcloud.com/
 
 # Prerequisites
