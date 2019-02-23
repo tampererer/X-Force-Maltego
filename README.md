@@ -2,7 +2,7 @@
 Maltego Local Transform to use IBM X-Force Exchange API - https://exchange.xforce.ibmcloud.com/
 
 # Prerequisites
-- IBM X-Force Exchange API
+- IBM X-Force Exchange API access
 - Python 2.7.x + requests, json module
 - Python 3.6.x will probably work.
 
